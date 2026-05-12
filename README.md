@@ -7,7 +7,7 @@
 
 Own your automation infrastructure. Connect 400+ apps. Pay only for Railway compute, not per-task fees.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/n8n-railway)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/n8n-latest-version)
 
 ---
 
